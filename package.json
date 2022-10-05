@@ -1,0 +1,33 @@
+{
+  "name": "jzb-clever-passport",
+  "version": "0.1",
+  "description": "Passport strategy for Screencastify Instant Login with Clever",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:John-Z-Black-Castify/jzb-clever-passport.git"
+  },
+  "keywords": [
+    "passport",
+    "clever",
+    "oauth",
+    "oauth2"
+  ],
+  "author": "John Z Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/John-Z-Black-Castify/jzb-clever-passport/issues"
+  },
+  "homepage": "https://github.com/John-Z-Black-Castify/jzb-clever-passport",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "passport-oauth2": "^1.5.0",
+    "querystring": "^0.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
